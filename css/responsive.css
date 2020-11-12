@@ -1,0 +1,208 @@
+@media (max-width: 1400px) {
+	
+}
+
+@media (max-width: 1200px) {
+    .banner-section .banner-inner {
+    height: 434px;
+    padding: 32px 9px;
+    width: 57%;
+
+}
+.banner-section .banner-inner h2 {
+    font-size: 41px;
+    margin-bottom: 30px;
+}
+
+.banner-section .banner-inner .btn {
+    padding: 8px 12px;
+    margin-left: 175px;
+    
+}
+
+
+.feature-card-use-1 .card .card-body p {
+    font-size: 17px;
+}
+
+
+.feature-icon-use .icon-part h2 {
+    color: black;
+    font-size: 48px;
+    line-height: 56px;
+    margin-bottom: 22px;
+}
+
+
+.picture-text {
+    padding: 46px 0px;
+}
+
+.picture-text .image-part img {
+    margin: 32px 230px;
+}
+}
+
+@media (max-width: 992px) {
+	.banner-section .banner-inner {
+    height: 433px;
+    padding: 32px 9px;
+    width: 80%;
+}
+
+.banner-section .banner-inner .btn {
+    margin-left: 189px;
+}
+
+.details-text p {
+    width: 58%;
+    font-size: 16px;
+
+}
+.feature-icon-use .img-fluid{
+	height: 720px;
+}
+
+.feature-card-use-1 .card {
+    border: none;
+    width: 100%;
+}
+.feature-card-use-1 .card .card-body h5 {
+    color: #0000009e;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 15px;
+    font-weight: 700;
+}
+.feature-card-use-1 .card .card-body p {
+    font-size: 14px;
+    margin: 20px auto;
+    line-height: 26px;
+    text-align: center;
+}
+.picture-text .image-part img {
+    margin: 32px 121px;
+}
+.picture-text .text-part p {
+    font-size: 16px;
+
+}
+.feature-card-use-2 .card {
+    border: none;
+    width: 100%;
+}
+.feature-card-use-2 .card .card-body h5 {
+    color: #0000009e;
+    letter-spacing: 2px;
+    text-align: center;
+    margin: 20px auto;
+    font-size: 15px;
+    font-weight: 700;
+}
+.feature-card-use-2 .card .card-body p {
+    font-size: 14px;
+    margin: 20px auto;
+    line-height: 26px;
+    text-align: center;
+}
+.footer-section .card-body p {
+    font-size: 17px;
+}
+    
+}
+
+@media (max-width: 768px) {
+	.banner-section .banner-inner {
+    height: 433px;
+    padding: 44px 9px;
+    width: 100%;
+}
+	.banner-section .banner-inner h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+    .banner-section .banner-inner .btn {
+    margin-left: 159px;
+}
+.banner-section .banner-inner p {
+    padding: 0px 20px;
+}
+.details-text p {
+    width: 66%;
+    font-size: 15px;
+}
+.feature-card-use-1 .card {
+    margin: auto;
+    margin-bottom: 65px;
+}
+
+
+.feature-icon-use .img-fluid {
+    height: 467px;
+    margin-left: 56px;
+    margin-bottom: 55px;
+}
+
+.feature-icon-use .icon-part {
+    margin-left: 88px;
+}
+
+.feature-icon-use .icon-part h2 {
+    margin-bottom: 33px;
+}
+
+.picture-text .image-part img {
+    margin: 32px 107px;
+    width: 64%;
+}
+
+.picture-text .text-part p {
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.picture-text {
+    width: 98%;
+    padding: 40px 0px;
+   
+}
+.feature-icon-use .icon-part {
+    margin-left: 15px;
+}
+
+
+.feature-card-use-2 .card {
+    margin: auto;
+    margin-bottom: 65px;
+}
+}
+
+@media (max-width: 576px) {
+	.banner-section .banner-inner .btn {
+    margin-left: 145px;
+}
+
+.details-text p {
+    width: 75%;
+    font-size: 15px;
+}
+.feature-icon-use .icon-part {
+    margin-left: 12px;
+}
+.picture-text .image-part img {
+    margin: 32px 98px;
+    width: 58%;
+}
+.picture-text .text-part p {
+    font-size: 14px;
+    line-height: 24px;
+}
+.footer-section h5 {
+    font-size: 31px;
+}
+.footer-section .card-body p {
+    font-size: 17px;
+}
+    
+}
